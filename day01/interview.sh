@@ -14,3 +14,5 @@ echo "enter name of candidate"
 read candidate
 
 echo "$candidate interview is fixed with $name on $(date)"
+
+echo "candidate in $0 $1"
